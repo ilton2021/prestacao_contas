@@ -1,0 +1,38 @@
+
+header, nav, main{
+    background-color: white;
+    min-height: 10vh;
+    margin: 2vh auto;
+}
+
+header {
+    margin: 2vh auto;
+}
+
+body{
+    background-color: black;
+}
+
+nav, main {
+    min-height: 82vh;
+}
+
+@media (min-width: 576px) {
+    
+ }
+
+@media (min-width: 768px) {
+    
+ }
+
+@media (min-width: 992px) {
+    
+ }
+
+@media (min-width: 1200px) {
+    
+ }
+
+@media (min-width: 1400px) {
+    
+ }
